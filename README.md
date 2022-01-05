@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sebseb100 and I love to program in Python!
-- I started to program after taking a few online courses on Udemy and Coursera.
+- I started to program after taking a few online courses on Udemy and Coursera starting in 2016.
 - I then started to tackle exercise sets like those found on codingbat.com to strengthen my skills. 
 - Shortly after I started to tackle bigger projects using Python Libraries.
 - I've created games like Connect Four, Tic Tac Toe, and a basic Tetris
