@@ -6,6 +6,6 @@
 - I've done data analysis projects on Crypto Price Movements, Air Quality, and Crime 
 - Now I'm working on creating my own Crypto-Currency called Dono 
 
-### My skills
+### My skills:
 
 <a href="https://soliditylang.org/"><img src="https://skillicons.dev/icons?i=solidity" /></a> <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a> <a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" /></a> <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" /></a> <a href="https://daringfireball.net/projects/markdown/"><img src="https://skillicons.dev/icons?i=markdown" /></a> <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" /></a> 
