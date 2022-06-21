@@ -4,7 +4,8 @@
 - Shortly after I started to tackle bigger projects using Python Libraries.
 - I've created games like Connect Four, Tic Tac Toe, and a basic Tetris
 - I've done data analysis projects on Crypto Price Movements, Air Quality, and Crime 
-- Now I'm working on creating my own Crypto-Currency called Dono 
+- I've participated in Harmony Ones Web3 Hackathon and won prizes for my efforts
+- Now I'm enrolled in Zero Knowledge University and am dedicating my time to Web3 and Solidity Development
 
 ### My skills:
 
